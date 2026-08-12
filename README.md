@@ -17,6 +17,8 @@ A responsive bookstore e-commerce UI inspired by Delhi's iconic Khan Market book
 - Vanilla JavaScript (genre filtering, wishlist toggle)
 
 ## Screenshots
+<img width="1898" height="896" alt="Screenshot_fc_website" src="https://github.com/user-attachments/assets/0bbb6695-2a13-42e4-a43a-7aa69ccc98a7" />
+
 
 ## Status
 Front-end only
